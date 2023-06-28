@@ -1,0 +1,1 @@
+export const SURGE_CHANGE_RATE = 25;
